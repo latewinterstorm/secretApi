@@ -1,0 +1,22 @@
+{
+  "name": "kalman",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "@vuelidate/core": "^2.0.0-alpha.27",
+    "@vuelidate/validators": "^2.0.0-alpha.23",
+    "axios": "^0.22.0",
+    "primeflex": "^2.0.0",
+    "primeicons": "^4.1.0",
+    "primevue": "^3.7.1",
+    "sass": "^1.42.1",
+    "vue": "^3.2.19",
+    "vue-axios": "^3.3.7",
+    "vue-router": "^4.0.11"
+  }
+}
